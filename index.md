@@ -1,6 +1,7 @@
 Hello and welcome to Fred's future blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
 ![image of Jan Baudouin de Courtney](images/young_jbdc.png | width=100)
+<img src="images/young_jbdc.png" alt="image of young Jan Baudouin de Courtenay" width="200"/>
 
 ## This is a title
 
