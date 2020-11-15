@@ -1,4 +1,4 @@
-|<img src="images/young_jbdc.png" alt="image of young Jan Baudouin de Courtenay" width="200"/>| 
+|![image of young Jan Baudouin de Courtenay](images/young_jbdc.png)| 
 |:--:|
 | *the author in repose* |
 ---
