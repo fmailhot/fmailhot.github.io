@@ -1,7 +1,7 @@
-Hello and welcome to Fred's future blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# give em the ol razzle dazzle
 
 <img src="images/young_jbdc.png" alt="image of young Jan Baudouin de Courtenay" width="200"/>
 
-## This is a title
+i'm not sure what this will be just yet; i've tried starting a blog a few times in the past (furthest i ever got was back at linguistics nerd camp and the less said about that the better really)
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+i want to try to get down (in some cases merely marshall/organize) my thoughts on a few things and maybe even try my hand at some fiction
