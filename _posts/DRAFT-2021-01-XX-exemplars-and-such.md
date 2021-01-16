@@ -1,26 +1,53 @@
 # memorization, analogy, and generalization in linguistic science
 ---
 
-In _First Language, Vol. 40(5--6)_ Ambridge (2020) presents empirical and theoretical arguments for a "radical exemplar" approach to child language acquisition. He presents empirical and theoretical arguments --- across several linguistic subdomains --- in support of the explicit, detailed storage of linguistic tokens, and argues against the storage of abstractions.
+In _First Language, Vol. 40(5--6)_ Ambridge (2020) presents empirical and theoretical arguments for a "radical exemplar" approach to child language acquisition. He presents empirical and theoretical arguments from across several linguistic subdomains in support of the storage of explicit, detailed linguistic tokens, and argues against the storage of abstractions.
 
-As someone who's been interested in exemplar approaches to phonetics/phonology for several years (Mailhot 2010), my aim in this post is to go over Ambridge's main points, review a selection of the replies to his target article, and assess the effectiveness of the position he settles on in his final rejoinder. In doing this, I'll try to shed light
+My aim in this post is to go over some of Ambridge's main arguments, review a selection of the replies to his target article, and assess the position he settles on in his final rejoinder. In doing this, I'll spend some time talking about what's involved in cashing out (some) approaches to exemplar-based approaches to linguistics acquisition and knowledge, as well as touching on the nature of abstraction in cognition and linguistics broadly, and in phonetics/phonology more specifically, as that is my main area of knowledge.
 
 1. TOC
 {:toc}
 
-## Ambridge 2020 & replies
+## _Against stored abstractions: A radical exemplar model of language acquisition_
 
-### 100k foot view of target article
+Ambridge lays out his position clearly in the opening paragraph of his introduction:
 
-exemplars not abstraction
+> Most, perhaps all, mainstream theories of child language acquisition share a common assumption: adult
+> knowledge of language includes stored abstractions such as [VERB] [NOUN] and [SUBJECT], and language
+> acquisition therefore involves forming and/or mastering these abstractions. The goal of the present article
+> is to argue that this assump- tion is misplaced, and to present the case for a radical alternative: adult
+> knowledge of language consists of nothing but stored exemplars and the ability to analogize across them on
+> the fly in comprehension or production.1 Child language acquisition therefore involves simply storing these
+> exemplars and developing this ability.
 
-### replies, for, against, and conciliatory
+Note that although the article title and introductory paragraph specifically call out language
+acquisition (Ambridge is, after all, a language acquisition reseacher and the target article appeared
+in the journal _First Language_), it is clearly stated that presented model or theory is intended to account
+for _adult_ linguistic knowledge in addition to the process of acquisition.
 
-- phonology
-- abstraction is necessary
-- deep learning as exemplar
+## replies: for, against, and conciliatory
 
-## what is abstraction? what are "stored abstractions"?
+### abstraction is necessary
+- Hartshorne
+- Schuler et al
+- Demuth & Johnson
+
+### deep learning
+- Mahowald et al
+- McClelland
+
+### phonology
+- Finley
+- Rose
+
+### predictive failures and definitional quibbles
+- Zettersten et al
+- Lieven et al
+
+### other good points
+- ...
+
+## what is "(linguistic) abstractions"? what are "abstract (linguistic) representations"?
 
 ### Hyman
 
